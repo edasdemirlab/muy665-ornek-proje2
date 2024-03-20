@@ -6,3 +6,5 @@ str(okunan_veri)
 mean(okunan_veri$height)
 
 #erdi
+
+# veriyle ilgili islemler
